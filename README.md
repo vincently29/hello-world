@@ -4,6 +4,6 @@ Hi, my name is Vincent Ly. I am a 3rd year Cognitive Science major with a specia
 
  <b> hello </b>
  
- <b> Potential Biases with Data Collection: </b> 
+ <b> Potential Biases with Data Collection: </b> ,
  "\n",
 " hello world \n",
